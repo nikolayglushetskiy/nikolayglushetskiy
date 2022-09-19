@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [boardgame project](https://github.com/randynobx/bloomtech-ds40-group-project)
 
-- 🌱 I’m currently learning **neural networks, machine learning**
+- 🌱 I’m currently learning **Data Science in Bloomtech university**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikolayglushetskiy](https://github.com/nikolayglushetskiy)
 
