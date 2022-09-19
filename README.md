@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12363
-Fork on GitHub
-3110
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Nikolay Glushetskiy</h1>
 <h3 align="center">A passionate data scientist</h3>
 
